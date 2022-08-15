@@ -1,4 +1,4 @@
-# Designer Resume
+# Digital Resume
 
 ## Usage
 
