@@ -1,5 +1,4 @@
-# Simple Tailwind CSS Starter
-
+# Designer Resume
 
 ## Usage
 
@@ -26,4 +25,3 @@ To build once, run
 ```
 npm run build
 ```
-
